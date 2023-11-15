@@ -9,7 +9,7 @@ Webpage Link: https://en.wikipedia.org/wiki/List_of_most-played_mobile_games_by_
 You can view my work over here: <a href="https://github.com/Swapppyy/Analysis-on-most-played-mobile-games/blob/main/Web%20Scraping%20project.ipynb" target="_blank"><code>My Jupyter Notebook</code></a>
 
   
-### Aim of this Notebook:
+### Aim of this Notebook is to find:
 
 - Trend in Player count over time
 
