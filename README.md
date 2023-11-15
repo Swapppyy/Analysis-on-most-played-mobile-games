@@ -1,6 +1,6 @@
 ### Comprehensive Analysis of Web-Scraped Data on the Most Played Mobile Games
 
-### Introduction:
+#### Introduction:
 
 I scraped some web data from Wikipedia about most played mobile games with respect to player count, capturing details on various mobile games and player count. Then i decided to perform EDA on this information to explore player counts for different games, unveil the correlation between player engagement and release dates, top developers, and find the secrets behind game longevity.
 
@@ -9,7 +9,7 @@ Webpage Link: https://en.wikipedia.org/wiki/List_of_most-played_mobile_games_by_
 You can view my work over here: <a href="https://github.com/Swapppyy/Analysis-on-most-played-mobile-games/blob/main/Web%20Scraping%20project.ipynb" target="_blank"><code>My Jupyter Notebook</code></a>
 
   
-### Aim of this Notebook:
+#### Aim of this Notebook:
 
 - Trend in Player count over time
 
