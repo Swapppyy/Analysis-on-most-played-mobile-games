@@ -39,7 +39,12 @@ It is important to note that the insights derived from this project may be inacc
 
 - It can be observed that the games are played by most of the players upto 2000 days
 
+<br>
 
+### Trend pattern seen for players:
+<p align="center">
+  <img width="100%" src="MPG.png" />
+</p>
 
 
 
